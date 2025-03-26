@@ -9,7 +9,8 @@ import { pares } from './concepts/ejercicio'
 document.querySelector('#app').innerHTML = `
 
 <body>
-  <img src="/public/Leonardo_Phoenix_10_Design_a_gothicstyle_logo_with_a_split_des_2.jpg" alt="logo principal" class="gotic">
+ <img src="/CalculadoraBasica/Leonardo_Phoenix_10_Design_a_gothicstyle_logo_with_a_split_des_2.jpg" alt="logo principal" class="gotic">
+
   
   <div id="app">
     <a href="https://vite.dev" target="_blank">
